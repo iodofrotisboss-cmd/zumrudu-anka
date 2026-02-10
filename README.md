@@ -1,138 +1,129 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://komarev.com/ghpvc/?username=MustafaKhalil&label=Profile+Views&color=00FF41&style=flat" alt="Profile Views">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello,+I'm+Mustafa+Khalil;Full+Stack+Developer;Building+the+web,+one+commit+at+a+time" alt="Typing Animation">
   </a>
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  <a href="mailto:mustafa.khalil@example.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00FF41?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/mustafa-khalil" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://wa.me/201000000000" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-00FF41?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  🔧 Full Stack Developer specializing in modern web applications
+  <br>
+  🚀 Building efficient, scalable solutions with clean code
+  <br>
+  🎯 Focused on creating exceptional user experiences
+  <br>
+  📚 Continuously learning and adapting to new technologies
+  <br>
+  💬 Ask me about web development, React, Next.js, or NestJS
+  <br>
+  📫 How to reach me: <a href="mailto:mustafa.khalil@example.com" style="color: #00FF41;">mustafa.khalil@example.com</a>
 </p>
-<hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<hr style="border: 1px solid #00FF41;">
+
+<h2 align="center" style="color: #00FF41;">⚡ نشاطي على GitHub | GitHub Stats</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://git.io/streak-stats" title="GitHub Streak">
+      <img align="left" width=400 src="https://streak-stats.demolab.com?user=MustafaKhalil&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=MustafaKhalil&show_icons=true&theme=dark&border_color=00FF41&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKhalil&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8&border_color=00FF41" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaKhalil&theme=react-dark&bg_color=0D1117&hide_border=true&point=00FF41&line=00FF41&color=FFFFFF" width="100%"/>
 </p>
 
-<hr>
+<hr style="border: 1px solid #00FF41;">
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center" style="color: #00FF41;">🛠️ Tech Stack & Tools</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+      <br>NestJS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-<h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<hr style="border: 1px solid #00FF41;">
 
-
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
+<h2 align="center" style="color: #00FF41;">🚀 What I'm Building Now</h2>
+<div align="center">
+  
+  ```bash
+  $ Currently Building: Full-stack SaaS Platform
+  $ Stack: Next.js 14 + NestJS + PostgreSQL
+  $ Status: In Development 🚧
